@@ -41,7 +41,6 @@ String apiKey = "<TOKEN>";  // Cambia <TOKEN> por tu token de la API de Remove.b
 ## Dependencias:
 
 - Servlet API: Para manejar las solicitudes HTTP y trabajar con servlets.
-
 - API de Remove.bg: Necesitarás tener acceso a esta API para hacer el proceso de eliminación de fondo.
 
 ## Configuración de Eclipse:
@@ -49,7 +48,6 @@ String apiKey = "<TOKEN>";  // Cambia <TOKEN> por tu token de la API de Remove.b
 1. Crear un Proyecto Dynamic Web:
 
   - En Eclipse, selecciona ``File`` -> ``New`` -> ``Dynamic Web Project``.
-
   - Asigna un nombre al proyecto y asegúrate de que se añada el soporte de Servlets.
 
 2. Agregar las clases:
