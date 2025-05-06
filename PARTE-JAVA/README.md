@@ -47,17 +47,17 @@ String apiKey = "<TOKEN>";  // Cambia <TOKEN> por tu token de la API de Remove.b
 
 1. Crear un Proyecto Dynamic Web:
 
-  - En Eclipse, selecciona ``File`` -> ``New`` -> ``Dynamic Web Project``.
-  - Asigna un nombre al proyecto y asegúrate de que se añada el soporte de Servlets.
+     - En Eclipse, selecciona ``File`` -> ``New`` -> ``Dynamic Web Project``.
+     - Asigna un nombre al proyecto y asegúrate de que se añada el soporte de Servlets.
 
 2. Agregar las clases:
 
-  - Crea los servlets ``UploadServlet.java`` y ``DownloadServlet.java``.
+     - Crea los servlets ``UploadServlet.java`` y ``DownloadServlet.java``.
 
 3. Configurar el ``web.xml``:
 
-  - Asegúrate de que los servlets estén correctamente configurados en el archivo web.xml de la aplicación web.
+     - Asegúrate de que los servlets estén correctamente configurados en el archivo web.xml de la aplicación web.
 
 4. Corriendo el Proyecto:
 
-  - Después de configurar todo, puedes ejecutar el servidor desde Eclipse y acceder a la aplicación en tu navegador.
+     - Después de configurar todo, puedes ejecutar el servidor desde Eclipse y acceder a la aplicación en tu navegador.
